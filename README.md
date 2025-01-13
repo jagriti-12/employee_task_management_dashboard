@@ -152,10 +152,10 @@ This structure is designed to ensure scalability, modularity, and ease of mainte
 Make sure you have Node.js installed, then run the following command:
 
 > npm install
-Run the app:
+
+#### Run the app:
 
 After the dependencies are installed, run the app:
-
 
 > npm start
 
@@ -193,6 +193,18 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+> - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+
+## Credentials
+
+- ADMIN (admin@me.com)
+- Employee 1 (employee1@example.com)
+- Employee 2 (employee2@example.com)
+- Employee 3 (employee3@example.com)
+- Employee 4 (employee4@example.com)
+- Employee 5 (employee5@example.com)
+
+- ## Password
+- Check Manually in the file!
